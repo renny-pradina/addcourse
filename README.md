@@ -1,0 +1,1 @@
+This code is the code for performing K-Means clustering and Principal Component Analysis, written for the Data Analytics and Diagnostics Course at the Department of Information Systems, Institut Teknologi Sepuluh Nopember (ITS), which I teach.
